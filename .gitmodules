@@ -1,0 +1,3 @@
+[submodule "submodule_1"]
+	path = submodule_1
+	url = https://github.com/smagness/submodule_1/.git
